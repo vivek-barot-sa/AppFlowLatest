@@ -1,6 +1,8 @@
 {
   "name": "appFlowLatestTest",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "e9c57c62"
 }
